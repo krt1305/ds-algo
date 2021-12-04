@@ -1,26 +1,26 @@
 
-ssquid:S1149;"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8•ùÈñ‡/
-psquid:S37769"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ØğÓ8•ùÈñ‡/
-isquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ÅüÄ‡8º¹Ãñ‡/
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8³ÔÕğ‡/
-V
-squid:S1064"9Replace this use of System.out or System.err by a logger.(àæŞ8•ùÈñ‡/
 esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ı¯ë
-[squid:S1197"8Move the array designator from the variable to the type.(æì€óùÿÿÿÿ8³ÔÕğ‡/
-Vsquid:S1197	"8Move the array designator from the variable to the type.(’­†’8³ÔÕğ‡/
-ssquid:S1149]"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8•ùÈñ‡/
-V
-squid:S106'"9Replace this use of System.out or System.err by a logger.(´³²¸8µ•™ñ‡/
 Vsquid:S1197["8Move the array designator from the variable to the type.(›®¨8•ùÈñ‡/
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(íÒòüÿÿÿÿ8³ÔÕğ‡/
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ê¨–Î8³ÔÕğ‡/
-[
-squid:S106 "9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8³ÔÕğ‡/
-psquid:S3776["RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(›®¨8•ùÈñ‡/
+ssquid:S1149;"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8•ùÈñ‡/
 Vsquid:S1197"8Move the array designator from the variable to the type.(àªªŞ8³ÔÕğ‡/
+psquid:S3776["RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(›®¨8•ùÈñ‡/
+isquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ÅüÄ‡8º¹Ãñ‡/
+[squid:S1197"8Move the array designator from the variable to the type.(æì€óùÿÿÿÿ8³ÔÕğ‡/
 [squid:S1197"8Move the array designator from the variable to the type.(÷­ÌÂùÿÿÿÿ8‚†ñ‡/
 [
 squid:S106#"9Replace this use of System.out or System.err by a logger.(êŸÒÃøÿÿÿÿ8å­ñ‡/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÒòüÿÿÿÿ8³ÔÕğ‡/
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(´³²¸8µ•™ñ‡/
+Vsquid:S1197	"8Move the array designator from the variable to the type.(’­†’8³ÔÕğ‡/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8³ÔÕğ‡/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê¨–Î8³ÔÕğ‡/
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(àæŞ8•ùÈñ‡/
+psquid:S37769"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ØğÓ8•ùÈñ‡/
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8³ÔÕğ‡/
+ssquid:S1149]"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8•ùÈñ‡/

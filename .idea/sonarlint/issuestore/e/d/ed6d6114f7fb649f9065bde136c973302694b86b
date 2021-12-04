@@ -1,23 +1,23 @@
 
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œ«”Üýÿÿÿÿ8š‹Å—Š/
+[
+squid:S106E"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8áá©˜Š/
+Vsquid:S1197"8Move the array designator from the variable to the type.(ëû®Ó8«¤«—Š/
 V
 squid:S106H"9Replace this use of System.out or System.err by a logger.(õ…î¾8ïŠ²˜Š/
-Vsquid:S1197"8Move the array designator from the variable to the type.(ëû®Ó8«¤«—Š/
-[
-squid:S106;"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8”Š¤˜Š/
-[
-squid:S106B"9Replace this use of System.out or System.err by a logger.(£œñýÿÿÿÿ8áá©˜Š/
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ú•ˆ±8”Š¤˜Š/
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨š·È
 [squid:S1197"8Move the array designator from the variable to the type.(ò½ºûÿÿÿÿ8› £˜Š/
 [
 squid:S1068"9Replace this use of System.out or System.err by a logger.(ÀØÙùüÿÿÿÿ8”Š¤˜Š/
-esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨š·È
-jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(§Þ–“8™£ä–Š/
-Usquid:S1197"8Move the array designator from the variable to the type.(ÓæÍA8×·ã–Š/
 [
-squid:S106E"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8áá©˜Š/
+squid:S106B"9Replace this use of System.out or System.err by a logger.(£œñýÿÿÿÿ8áá©˜Š/
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(§Þ–“8™£ä–Š/
 [
 squid:S1065"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8”Š¤˜Š/
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œ«”Üýÿÿÿÿ8š‹Å—Š/
-V
-squid:S1062"9Replace this use of System.out or System.err by a logger.(ú•ˆ±8”Š¤˜Š/
 Vsquid:S1197"8Move the array designator from the variable to the type.(ëû®Ó8«¤«—Š/
+Usquid:S1197"8Move the array designator from the variable to the type.(ÓæÍA8×·ã–Š/
+[
+squid:S106;"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8”Š¤˜Š/
 @squid:S1659""Declare "maxR" on a separate line.(ëû®Ó8´Ïº—Š/

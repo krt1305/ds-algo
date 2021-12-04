@@ -1,15 +1,15 @@
 
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñï·Å8þË‰¯Ï/
+‹squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(‡þ‹³8«ÅÎ®Ï/
 jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…¾Øýÿÿÿÿ
 ?squid:S2129!"!Remove this "Integer" constructor(ˆÑ¥°8ÝÂ¯Ï/
-\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ó³šŠ8‰¬ˆ¯Ï/
 Hsquid:S1481"*Remove this unused "entry" local variable.(¹”ç¬8 ©Ô®Ï/
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(š´§éøÿÿÿÿ8üÉÆ¯Ï/
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(À‡×Ýÿÿÿÿÿ8 ©Ô®Ï/
-‹squid:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(‡þ‹³8«ÅÎ®Ï/
 Vsquid:S1197"8Move the array designator from the variable to the type.(ô°€‚8ÐÏ§®Ï/
 U
 squid:S106""9Replace this use of System.out or System.err by a logger.(þÊ¤48¶Æ¯Ï/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(À‡×Ýÿÿÿÿÿ8 ©Ô®Ï/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñï·Å8þË‰¯Ï/
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ó³šŠ8‰¬ˆ¯Ï/
