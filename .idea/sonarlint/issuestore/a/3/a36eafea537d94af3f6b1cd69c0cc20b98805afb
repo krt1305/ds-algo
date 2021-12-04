@@ -1,0 +1,12 @@
+
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(óŠÕÎÿÿÿÿÿ8ğ‰È Š/
+Vsquid:S1197
+"8Move the array designator from the variable to the type.(ï¿œ8Ş€êŸŠ/
+nsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ÆŸ€°øÿÿÿÿ8­ÒÊ Š/
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÉëáŒÿÿÿÿÿ
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¿ş®èùÿÿÿÿ8³šÉ Š/
+jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(èõ¨8èëŸŠ/
+[squid:S1155">Use isEmpty() to check whether the collection is empty or not.(²×„K8ğ‰È Š/
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ïÉ¸

@@ -1,0 +1,22 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÅ€©ùÿÿÿÿ
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´ïûƒýÿÿÿÿ8ŽÓ¥û„/
+Msquid:S1481
+"*Remove this unused "count" local variable.(Å˜Ó¢ýÿÿÿÿ8×µ†ú„/
+Bsquid:S1659"Declare "j" on a separate line.(ý²ïºÿÿÿÿÿ8–‹ú„/
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ä¸ÓÀøÿÿÿÿ8‚ Úú„/
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ÐŽÈñþÿÿÿÿ8¬¬§û„/
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÎŽÕF8ŽÓ¥û„/
+V
+squid:S106""9Replace this use of System.out or System.err by a logger.(¨á­Ô8‚ Úú„/
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(†ÄŒûÿÿÿÿ8ÒÍ÷ú„/
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8›’¥û„/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ûÈ­ùÿÿÿÿ8ŽÙ×ú„/
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8¢å¾ú„/
+[
+squid:S1067"9Replace this use of System.out or System.err by a logger.(™‹æ‘ûÿÿÿÿ8àÚ»ú„/

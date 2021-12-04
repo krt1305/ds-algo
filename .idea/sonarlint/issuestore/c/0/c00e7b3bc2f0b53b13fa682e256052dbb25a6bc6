@@ -1,0 +1,16 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áªø8±ö÷×.
+Bsquid:S1659%"Declare "j" on a separate line.(¦¢Éëùÿÿÿÿ8²‡÷×.
+Hsquid:S2157$"%Add a "clone()" method to this class.(Ñï…Âıÿÿÿÿ8©»²ø×.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ÎºÊüÿÿÿÿ8¼²–÷×.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.( ¹‹œ8°¤¥÷×.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Å‡şß8³¸öø×.
+´%squid:RedundantThrowsDeclarationCheck"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(ÂôP8³¸öø×.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Áªø8è’’÷×.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó˜òÌ8ºÖ™÷×.
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ùïİ

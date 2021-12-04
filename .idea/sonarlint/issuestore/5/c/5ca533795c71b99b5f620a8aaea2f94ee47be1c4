@@ -1,0 +1,5 @@
+
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8»¾¤Ù„/
+asquid:UselessImportCheck"1Remove this unused import 'java.util.Collection'.(¹ÉÐšùÿÿÿÿ8»¾¤Ù„/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(—Ù°ø8ì²‰×„/

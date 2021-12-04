@@ -1,0 +1,20 @@
+
+ssquid:S1149@"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ìçÕï‡/
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8¿—–ğ‡/
+Vsquid:S1197"8Move the array designator from the variable to the type.(àªªŞ8Í¶İï‡/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8—ñ›ğ‡/
+psquid:S3776>"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(›®¨8­‹®ğ‡/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê¨–Î8á•›ğ‡/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8©‘‚ğ‡/
+Vsquid:S1197"8Move the array designator from the variable to the type.(’­†’8Í¶İï‡/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(íÒòüÿÿÿÿ8ŒÉšğ‡/
+U
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ùãş8à­‹ğ‡/
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸”íüÿÿÿÿ
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ØğÓ8é÷üï‡/
+[squid:S1197"8Move the array designator from the variable to the type.(æì€óùÿÿÿÿ8æãšï‡/
+Vsquid:S1197>"8Move the array designator from the variable to the type.(›®¨8ë“Ïï‡/

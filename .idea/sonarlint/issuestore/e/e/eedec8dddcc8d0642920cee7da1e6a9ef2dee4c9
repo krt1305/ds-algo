@@ -1,0 +1,15 @@
+
+Vsquid:S1197	"8Move the array designator from the variable to the type.(“·¦ƒ8¤Şëã¤/
+Š"squid:ClassVariableVisibilityCheck"UMake finalList a static final constant or non-public and provide accessors if needed.(«€ú8Š”ëã¤/
+Msquid:S1444"/Make this "public static finalList" field final(«€ú8Š”ëã¤/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ„Îßøÿÿÿÿ8¨¥ùã¤/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿº§‹ûÿÿÿÿ8‘™ìã¤/
+;squid:S2386"Make this member "protected".(«€ú8Š”ëã¤/
+qsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’®y
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ì…ù£8‘™ìã¤/
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ˆ•«¤üÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8‘™ìã¤/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(³ÑÎ€8‘™ìã¤/

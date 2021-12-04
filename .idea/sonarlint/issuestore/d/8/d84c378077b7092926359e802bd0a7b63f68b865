@@ -1,0 +1,4 @@
+
+Dsquid:S1481"(Remove this unused "arr" local variable.(ÅÏÆ8ıÇø…/
+Tsquid:S1197"8Move the array designator from the variable to the type.(ÅÏÆ8ıÇø…/
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ê’ªĞ

@@ -1,0 +1,11 @@
+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(³÷”8’ôÍàÜ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ãêÖıÿÿÿÿ8’ôÍàÜ.
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ã™ÄÏ8’ôÍàÜ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(’©´8¼›ÍàÜ.
+Bsquid:S2440"!Remove this instantiation of "B".(ÜÅº¨ıÿÿÿÿ8’ôÍàÜ.
+Ysquid:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8¼›ÍàÜ.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Õ¬û¯ùÿÿÿÿ8¼›ÍàÜ.
+Vsquid:S2209"5Change this instance-reference to a static reference.(Õ¬û¯ùÿÿÿÿ8’ôÍàÜ.

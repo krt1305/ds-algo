@@ -1,0 +1,6 @@
+
+Lsquid:S2201"+The return value of "replace" must be used.(½­¤¨øÿÿÿÿ8¶µ³Ö…/
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã˜“Ãÿÿÿÿÿ
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(´»áµüÿÿÿÿ8¶µ³Ö…/
+Ysquid:S2589"8Remove this expression which always evaluates to "false"(ð„À±ÿÿÿÿÿ8Ã•“Ö…/
+Lsquid:S2201"+The return value of "replace" must be used.(â¸’˜ÿÿÿÿÿ8¶µ³Ö…/

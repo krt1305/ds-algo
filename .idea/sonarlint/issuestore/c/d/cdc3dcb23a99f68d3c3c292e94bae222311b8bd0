@@ -1,0 +1,12 @@
+
+[squid:S1197
+"8Move the array designator from the variable to the type.(ÊÒ”§ûÿÿÿÿ8’ãÚÅˆ/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÌß8„ëüÅˆ/
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(ÁÛ¥‡ÿÿÿÿÿ8›õ÷Åˆ/
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»ŠäĞşÿÿÿÿ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£œÄ¤8ÑõÅˆ/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÃÊöƒüÿÿÿÿ8üÄõÅˆ/
+Osquid:S1172"1Remove this unused method parameter "startIndex".(¤‰À¹8¿áõÅˆ/
+xsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’®y8‹¬æã¤/

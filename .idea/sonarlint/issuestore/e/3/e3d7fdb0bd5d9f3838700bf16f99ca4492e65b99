@@ -1,0 +1,10 @@
+
+V
+squid:S106R"9Replace this use of System.out or System.err by a logger.(¸ÛÈÆ8™ñë×‹/
+dsquid:S1126"AReplace this if-then-else statement by a single return statement.(İß‰úÿÿÿÿ8›¨÷åˆ/
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç«ƒùşÿÿÿÿ8›¨÷åˆ/
+Vsquid:S1197A"8Move the array designator from the variable to the type.(®ûÏ8™ñë×‹/
+Vsquid:S1197"8Move the array designator from the variable to the type.(’ş©8›¨÷åˆ/
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥†ê²ÿÿÿÿÿ8›¨÷åˆ/
+[squid:S1197"8Move the array designator from the variable to the type.(ğÏğëÿÿÿÿÿ8›¨÷åˆ/
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ğÏğëÿÿÿÿÿ8›¨÷åˆ/

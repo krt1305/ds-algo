@@ -1,0 +1,10 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¦¡åùÿÿÿÿ8îà×„à.
+psquid:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8ÛßÙ„à.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÆÛ8†ñØ„à.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.( …É?8á¢Ú„à.
+Nsquid:S1481"-Remove this unused "customer" local variable.(å¿á¡üÿÿÿÿ8îà×„à.
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ

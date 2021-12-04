@@ -1,0 +1,9 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡ÐÕèþÿÿÿÿ8³‹Ü„Œ/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(²—Ð˜øÿÿÿÿ8Áì¬ü„/
+dsquid:S1126"AReplace this if-then-else statement by a single return statement.(´«»ˆúÿÿÿÿ8ß««ü„/
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñÓ¦¸
+Bsquid:S1659"Declare "j" on a separate line.(ý²ïºÿÿÿÿÿ8ÃÄ¨ü„/
+osquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(¬¥Üÿùÿÿÿÿ8ž€™ü„/

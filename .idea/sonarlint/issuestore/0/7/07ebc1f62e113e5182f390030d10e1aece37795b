@@ -1,0 +1,16 @@
+
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßûý™8Àó÷Âˆ/
+[squid:S1197"8Move the array designator from the variable to the type.(ä¼þÒüÿÿÿÿ8Àó÷Âˆ/
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8Àó÷Âˆ/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8ô§”ß‹/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Áµ–Âûÿÿÿÿ8Àó÷Âˆ/
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(³ÑÎ€8Àó÷Âˆ/
+[squid:S1197"8Move the array designator from the variable to the type.(ÎëÃ…ÿÿÿÿÿ8Àó÷Âˆ/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(€ÿøƒ8¥â“ß‹/
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Õ„¹³úÿÿÿÿ8Àó÷Âˆ/
+asquid:UselessImportCheck"1Remove this unused import 'java.io.Serializable'.(èãîÂÿÿÿÿÿ8Àó÷Âˆ/

@@ -1,0 +1,6 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œõ²¿üÿÿÿÿ
+ysquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(ŸÖ³úùÿÿÿÿ8»ÉÑµ„/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŸÖ³úùÿÿÿÿ8»ÉÑµ„/
+‚squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ãÄ¸çúÿÿÿÿ8»ÉÑµ„/

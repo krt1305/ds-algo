@@ -1,0 +1,9 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÜÕ¼8¸ ˜àÎ/
+[squid:S1155">Use isEmpty() to check whether the collection is empty or not.(Ö›çj8øœ÷µŠ/
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ïÉ¸
+[squid:S1197
+"8Move the array designator from the variable to the type.(Ş¤ô‹ûÿÿÿÿ8­¹˜µŠ/
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­Ë‚
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(öÂş½ıÿÿÿÿ8Óè™àÎ/

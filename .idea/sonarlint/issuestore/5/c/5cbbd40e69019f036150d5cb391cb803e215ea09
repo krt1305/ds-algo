@@ -1,0 +1,13 @@
+
+~squid:S3008?"[Rename this field "SalaryComparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÍÝüþÿÿÿÿ8ã“Í¤„/
+Ksquid:S1604?"(Make this anonymous inner class a lambda(üÍÝüþÿÿÿÿ8ã“Í¤„/
+–"squid:ClassVariableVisibilityCheck?"\Make SalaryComparator a static final constant or non-public and provide accessors if needed.(üÍÝüþÿÿÿÿ8ã“Í¤„/
+Ysquid:S1444?"6Make this "public static SalaryComparator" field final(üÍÝüþÿÿÿÿ8ã“Í¤„/
+{squid:S3008J"XRename this field "AgeComparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢½Ýôüÿÿÿÿ8µñÎ¤„/
+vsquid:S3008U"YRename this field "NameComparator" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…†Ç-8µñÎ¤„/
+Vsquid:S1444J"3Make this "public static AgeComparator" field final(¢½Ýôüÿÿÿÿ8µñÎ¤„/
+Qsquid:S1444U"4Make this "public static NameComparator" field final(…†Ç-8µñÎ¤„/
+“"squid:ClassVariableVisibilityCheckJ"YMake AgeComparator a static final constant or non-public and provide accessors if needed.(¢½Ýôüÿÿÿÿ8µñÎ¤„/
+Ž"squid:ClassVariableVisibilityCheckU"ZMake NameComparator a static final constant or non-public and provide accessors if needed.(…†Ç-8µñÎ¤„/
+Ksquid:S1604J"(Make this anonymous inner class a lambda(¢½Ýôüÿÿÿÿ8µñÎ¤„/
+Esquid:S1604U"(Make this anonymous inner class a lambda(…†Ç-8µñÎ¤„/

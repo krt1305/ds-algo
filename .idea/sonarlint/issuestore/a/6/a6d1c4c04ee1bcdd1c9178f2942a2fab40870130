@@ -1,0 +1,11 @@
+
+Vsquid:S1197"8Move the array designator from the variable to the type.(ó¬ÒÚ8Ş¶ÀÂ‰/
+Rsquid:S1066)"/Merge this if statement with the enclosing one.(£¾€ùÿÿÿÿ8¡âÆÂ‰/
+Vsquid:S1197"8Move the array designator from the variable to the type.(¦ºÅ“8’‚¿Â‰/
+[squid:S1197"8Move the array designator from the variable to the type.(œÚ»µÿÿÿÿÿ8’‚¿Â‰/
+Msquid:S1066<"/Merge this if statement with the enclosing one.(êš¿Ö8²†ÇÂ‰/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³°úæşÿÿÿÿ
+[squid:S1197"8Move the array designator from the variable to the type.(ş©ñÚüÿÿÿÿ8Ş¶ÀÂ‰/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç›íÖúÿÿÿÿ8»ûÍÂ‰/
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÙˆöÛûÿÿÿÿ

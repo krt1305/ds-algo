@@ -1,0 +1,12 @@
+
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(¨Ğÿÿÿÿÿ8“ú™‰…/
+Ysquid:S1197"8Move the array designator from the variable to the type.(™ˆÓ‹ùÿÿÿÿ8á™Ñˆ…/
+qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8‹’×ˆ…/
+Ysquid:S1155">Use isEmpty() to check whether the collection is empty or not.(•œÙh8ä»•‰…/
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8“ú™‰…/
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÌğ¥ıÿÿÿÿ8¢øˆ…/
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸“æÜ8¢øˆ…/
+Tsquid:S1197"8Move the array designator from the variable to the type.(Œ‡éé8Ïêáˆ…/
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßşÑ¼ÿÿÿÿÿ

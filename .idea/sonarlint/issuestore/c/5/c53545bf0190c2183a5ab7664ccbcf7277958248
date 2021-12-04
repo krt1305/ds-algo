@@ -1,0 +1,11 @@
+
+Š"squid:ClassVariableVisibilityCheck"PMake left a static final constant or non-public and provide accessors if needed.(øÓåüÿÿÿÿ8ŒÉ‚Ëˆ/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Íú˜ä8¾‡¡Ëˆ/
+‹"squid:ClassVariableVisibilityCheck"QMake right a static final constant or non-public and provide accessors if needed.(âäò´ÿÿÿÿÿ8ŒÉ‚Ëˆ/
+Msquid:S1444"*Make this "public static left" field final(øÓåüÿÿÿÿ8ŒÉ‚Ëˆ/
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºª‹ÿÿÿÿÿ
+[squid:S1197"8Move the array designator from the variable to the type.( Í°ãüÿÿÿÿ8Û‡øÊˆ/
+Nsquid:S1444"+Make this "public static right" field final(âäò´ÿÿÿÿÿ8ŒÉ‚Ëˆ/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Éš¤ãıÿÿÿÿ8ò‰³Ëˆ/

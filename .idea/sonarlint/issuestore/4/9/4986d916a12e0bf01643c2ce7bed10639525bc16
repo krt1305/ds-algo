@@ -1,0 +1,10 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(›·“ë8ŒÄìˆ/
+Rsquid:EmptyStatementUsageCheck"Remove this empty statement.(¦ùÖ³üÿÿÿÿ8¬ÒÃ·ˆ/
+lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Êé˜µ8ŒÄìˆ/
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 51 to the 15 allowed.(ùü¡á8ŒÄìˆ/
+_squid:S1126\"AReplace this if-then-else statement by a single return statement.(Õ¨°¯8ŒÄìˆ/
+n squid:LabelsShouldNotBeUsedCheckA";Refactor the code to remove this label and the need for it.(ºØ¶…8ŒÄìˆ/
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ÿµ¨úùÿÿÿÿ8ŒÄìˆ/
+™%squid:RedundantThrowsDeclarationCheck"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(ùü¡á8ŒÄìˆ/
